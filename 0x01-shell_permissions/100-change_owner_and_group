@@ -1,2 +1,2 @@
 #!/bin/bash
-chowh -hR betty:alxschool .
+chowh -hR vincent:staff .
